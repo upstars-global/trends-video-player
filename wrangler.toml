@@ -1,0 +1,22 @@
+name = "vue-tiktok-landing"
+main = "dist/index.html"
+compatibility_date = "2024-09-24"
+
+# R2 bucket configuration
+[[r2_buckets]]
+binding = "R2_BUCKET"
+bucket_name = "winspirits-nl"
+preview_bucket_name = "winspirits-nl"
+
+# Environment variables for R2
+[env.production.vars]
+R2_ACCOUNT_ID = "83802fb0b9b6916c3c04c4927f3c3010"
+R2_ACCESS_KEY_ID = "e0d5ff786b08d6bdcd4e81a6d89bfdb2"
+R2_SECRET_ACCESS_KEY = "4fbba39ad8aa412bcdd3327ff8211ba46eed68de4571676cc28be0834dccd9ad"
+R2_ENDPOINT = "https://83802fb0b9b6916c3c04c4927f3c3010.eu.r2.cloudflarestorage.com"
+
+[env.development.vars]
+R2_ACCOUNT_ID = "83802fb0b9b6916c3c04c4927f3c3010"
+R2_ACCESS_KEY_ID = "e0d5ff786b08d6bdcd4e81a6d89bfdb2"
+R2_SECRET_ACCESS_KEY = "4fbba39ad8aa412bcdd3327ff8211ba46eed68de4571676cc28be0834dccd9ad"
+R2_ENDPOINT = "https://83802fb0b9b6916c3c04c4927f3c3010.eu.r2.cloudflarestorage.com"
