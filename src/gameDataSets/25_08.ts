@@ -48,6 +48,206 @@ export const gamesData: Game[] = [
      },
   },
   {
+    name: 'Booming Fruits 256',
+    regions: {
+      au: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      },
+      global: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      }
+    },
+    src: 'booming_fruits_256',
+    supportedCurrencies: {
+        au: 'all',
+        global: 'all'
+     },
+  },
+  {
+    name: 'Booming Fruits 256',
+    regions: {
+      au: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      },
+      global: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      }
+    },
+    src: 'booming_fruits_256',
+    supportedCurrencies: {
+        au: 'all',
+        global: 'all'
+     },
+  },
+  {
+    name: 'Booming Fruits 256',
+    regions: {
+      au: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      },
+      global: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      }
+    },
+    src: 'booming_fruits_256',
+    supportedCurrencies: {
+        au: 'all',
+        global: 'all'
+     },
+  },
+  {
+    name: 'Booming Fruits 256',
+    regions: {
+      au: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      },
+      global: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      }
+    },
+    src: 'booming_fruits_256',
+    supportedCurrencies: {
+        au: 'all',
+        global: 'all'
+     },
+  },
+  {
+    name: 'Booming Fruits 256',
+    regions: {
+      au: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      },
+      global: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      }
+    },
+    src: 'booming_fruits_256',
+    supportedCurrencies: {
+        au: 'all',
+        global: 'all'
+     },
+  },
+  {
+    name: 'Booming Fruits 256',
+    regions: {
+      au: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      },
+      global: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      }
+    },
+    src: 'booming_fruits_256',
+    supportedCurrencies: {
+        au: 'all',
+        global: 'all'
+     },
+  },
+  {
+    name: 'Booming Fruits 256',
+    regions: {
+      au: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      },
+      global: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      }
+    },
+    src: 'booming_fruits_256',
+    supportedCurrencies: {
+        au: 'all',
+        global: 'all'
+     },
+  },
+  {
+    name: 'Booming Fruits 256',
+    regions: {
+      au: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      },
+      global: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      }
+    },
+    src: 'booming_fruits_256',
+    supportedCurrencies: {
+        au: 'all',
+        global: 'all'
+     },
+  },
+  {
+    name: 'Booming Fruits 256',
+    regions: {
+      au: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      },
+      global: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      }
+    },
+    src: 'booming_fruits_256',
+    supportedCurrencies: {
+        au: 'all',
+        global: 'all'
+     },
+  },
+  {
+    name: 'Booming Fruits 256',
+    regions: {
+      au: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      },
+      global: {
+        game_slug: 'booming_fruits_256',
+        provider: '1spin4win',
+        provider_slug: '1spin4win',
+      }
+    },
+    src: 'booming_fruits_256',
+    supportedCurrencies: {
+        au: 'all',
+        global: 'all'
+     },
+  },
+  {
     name: 'Gold Oktoberfest',
     regions: {
       au: {
