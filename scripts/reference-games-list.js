@@ -1,6 +1,16 @@
 // Эталонный список игр для сравнения
 // Добавлены новые игры в начало списка согласно инструкции
 export const referenceGamesList = [
+  'Hold My Beer',
+  'Fishing Splash',
+  'Crown Supreme Hold And Win',
+  'Beersburg Fest Hold And Win',
+  'Atomic Coins RUNNING WINS',
+  'Chicken Pirate',
+  'Cinderellas Glass Slipper',
+  'Lucky Lager x9990',
+  'Fruit Temptation',
+  'Disco Farm Hold And Win',
   'Booming Fruits 256',
   'Gold Oktoberfest',
   'Bonanza Trillion',

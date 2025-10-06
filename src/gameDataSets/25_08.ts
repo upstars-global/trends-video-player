@@ -28,200 +28,200 @@ export interface Game {
 // Полный список данных о всех играх
 export const gamesData: Game[] = [
   {
-    name: 'Booming Fruits 256',
+    name: 'Hold My Beer',
     regions: {
       au: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'hold_my_beer',
+        provider: 'TrueLab',
+        provider_slug: 'truelab',
       },
       global: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'hold_my_beer',
+        provider: 'TrueLab',
+        provider_slug: 'truelab',
       }
     },
-    src: 'booming_fruits_256',
+    src: 'hold_my_beer',
     supportedCurrencies: {
         au: 'all',
         global: 'all'
      },
   },
   {
-    name: 'Booming Fruits 256',
+    name: 'Fishing Splash',
     regions: {
       au: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'fishing_splash',
+        provider: 'Onlyplay',
+        provider_slug: 'onlyplay',
       },
       global: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'fishing_splash',
+        provider: 'Onlyplay',
+        provider_slug: 'onlyplay',
       }
     },
-    src: 'booming_fruits_256',
+    src: 'fishing_splash',
     supportedCurrencies: {
         au: 'all',
         global: 'all'
      },
   },
   {
-    name: 'Booming Fruits 256',
+    name: 'Crown Supreme Hold And Win',
     regions: {
       au: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'crown_supreme_hold_and_win',
+        provider: 'Iconic 21',
+        provider_slug: 'iconic21_slots',
       },
       global: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'crown_supreme_hold_and_win',
+        provider: 'Iconic 21',
+        provider_slug: 'iconic21_slots',
       }
     },
-    src: 'booming_fruits_256',
+    src: 'crown_supreme_hold_and_win',
     supportedCurrencies: {
         au: 'all',
         global: 'all'
      },
   },
   {
-    name: 'Booming Fruits 256',
+    name: 'Beersburg Fest Hold And Win',
     regions: {
       au: {
-        game_slug: 'booming_fruits_256',
+        game_slug: 'beersburg_fest_hold_and_win',
         provider: '1spin4win',
         provider_slug: '1spin4win',
       },
       global: {
-        game_slug: 'booming_fruits_256',
+        game_slug: 'beersburg_fest_hold_and_win',
         provider: '1spin4win',
         provider_slug: '1spin4win',
       }
     },
-    src: 'booming_fruits_256',
+    src: 'beersburg_fest_hold_and_win',
     supportedCurrencies: {
         au: 'all',
         global: 'all'
      },
   },
   {
-    name: 'Booming Fruits 256',
+    name: 'Atomic Coins RUNNING WINS',
     regions: {
       au: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'atomic_coins_running_wins',
+        provider: 'Fugaso',
+        provider_slug: 'fugaso',
       },
       global: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'atomic_coins_running_wins',
+        provider: 'Fugaso',
+        provider_slug: 'fugaso',
       }
     },
-    src: 'booming_fruits_256',
+    src: 'atomic_coins_running_wins',
     supportedCurrencies: {
         au: 'all',
         global: 'all'
      },
   },
   {
-    name: 'Booming Fruits 256',
+    name: 'Chicken Pirate',
     regions: {
       au: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'chicken_pirate',
+        provider: '100HP Gaming',
+        provider_slug: '100hp_gaming',
       },
       global: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'chicken_pirate',
+        provider: '100HP Gaming',
+        provider_slug: '100hp_gaming',
       }
     },
-    src: 'booming_fruits_256',
+    src: 'chicken_pirate',
     supportedCurrencies: {
         au: 'all',
         global: 'all'
      },
   },
   {
-    name: 'Booming Fruits 256',
+    name: 'Cinderellas Glass Slipper',
     regions: {
       au: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'cinderellas_glass_slipper',
+        provider: 'KA Gaming',
+        provider_slug: 'kagaming',
       },
       global: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'cinderellas_glass_slipper',
+        provider: 'KA Gaming',
+        provider_slug: 'kagaming',
       }
     },
-    src: 'booming_fruits_256',
+    src: 'cinderellas_glass_slipper',
     supportedCurrencies: {
         au: 'all',
         global: 'all'
      },
   },
   {
-    name: 'Booming Fruits 256',
+    name: 'Lucky Lager x9990',
     regions: {
       au: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'lucky_lager_x9990',
+        provider: 'Bgaming',
+        provider_slug: 'bgaming',
       },
       global: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'lucky_lager_x9990',
+        provider: 'Bgaming',
+        provider_slug: 'bgaming',
       }
     },
-    src: 'booming_fruits_256',
+    src: 'lucky_lager_x9990',
     supportedCurrencies: {
         au: 'all',
         global: 'all'
      },
   },
   {
-    name: 'Booming Fruits 256',
+    name: 'Fruit Temptation',
     regions: {
       au: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'fruit_temptation',
+        provider: 'Dream Play',
+        provider_slug: 'dream_play',
       },
       global: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'fruit_temptation',
+        provider: 'Dream Play',
+        provider_slug: 'dream_play',
       }
     },
-    src: 'booming_fruits_256',
+    src: 'fruit_temptation',
     supportedCurrencies: {
         au: 'all',
         global: 'all'
      },
   },
   {
-    name: 'Booming Fruits 256',
+    name: 'Disco Farm Hold And Win',
     regions: {
       au: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'disco_farm_hold_and_win',
+        provider: 'Betsoft',
+        provider_slug: 'betsoft',
       },
       global: {
-        game_slug: 'booming_fruits_256',
-        provider: '1spin4win',
-        provider_slug: '1spin4win',
+        game_slug: 'disco_farm_hold_and_win',
+        provider: 'Betsoft',
+        provider_slug: 'betsoft',
       }
     },
-    src: 'booming_fruits_256',
+    src: 'disco_farm_hold_and_win',
     supportedCurrencies: {
         au: 'all',
         global: 'all'
